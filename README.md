@@ -1,4 +1,4 @@
-**Atividade:** Crie uma função que leia dois números e retorne a média entre eles. Logo após, utilizar a função e exibir na tela o resultado dela.
+**Atividade:** Calcule a média de 3 notas e diga se o aluno foi aprovado ou reprovado.
 
 - **Unidade:** UNAMA - Alcindo Cacela  
 - **Turno:** Manhã  
