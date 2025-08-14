@@ -1,13 +1,16 @@
 public class App {
-    
-    public static int calculoDeMedia(int numero1, int numero2) {
-        int media = (numero1 + numero2) / 2;
-        return media;
-    }
-
     public static void main(String[] args) throws Exception {
-        int notaDoJoao = calculoDeMedia(5, 9);
-        System.out.println("A média das notas de João é de " + notaDoJoao + " Pontos");
-    }
+       int nota1 = 5;
+       int nota2 = 8;
+       int nota3 = 8;
+       int media = (nota1 + nota2 + nota3) / 3;
 
+        if (media >= 7){
+            System.out.println("O aluno foi aprovado com uma média de " + media );
+        }
+        else {
+            System.out.println("O aluno não foi aprovado com uma média de " + media);
+        }
+
+    }
 }
