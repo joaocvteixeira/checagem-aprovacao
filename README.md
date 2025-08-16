@@ -1,5 +1,7 @@
-**Atividade:** Calcule a média de 3 notas e diga se o aluno foi aprovado ou reprovado.
+**Atividade:**  
+Calcule a média de 3 notas e diga se o aluno foi aprovado ou reprovado.
 
+**Identificação:**
 - **Curso:** Ciência da Computação
 - **Universidade:** UNAMA
 - **Disciplina:** Programação Orientada a Objeto  
